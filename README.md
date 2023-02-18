@@ -34,6 +34,8 @@ Skills: basic c / python / html / css / javascript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musabtheexpensive&show_icons=true&count_private=true)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musabtheexpensive)  
 
 ![GitHub metrics](https://metrics.lecoq.io/musabtheexpensive)  
