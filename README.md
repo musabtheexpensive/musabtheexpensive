@@ -1,6 +1,6 @@
-![A junior programmer and digital marketing speacialist](https://media.licdn.com/dms/image/D4D16AQHjm9wWUjhKlA/profile-displaybackgroundimage-shrink_350_1400/0/1688706416807?e=1717632000&v=beta&t=HvBtyOZA2Kc6YNrX2do9appa3fjotNEcJ__7Vqnur64)
+![A junior programmer and digital marketing speacialist](https://media.licdn.com/dms/image/D4D16AQFyqdpDRtubzg/profile-displaybackgroundimage-shrink_350_1400/0/1718221515398?e=1723680000&v=beta&t=_iORFssUq0TgY-zWdo1Hqz-GzCFJOfhpS7l2HKAJeO4)
 # Hi there 👋, I'm Musab Al Mahi
-### A junior Mern Stack Developer and digital marketing speacialist
+### A junior Mern Stack Developer
 Hi, I'm MR Musab(MERN Stack Developer , junior programmer And digital marketing speacialist). I'm passionate about using data-driven insights to help businesses achieve their goals and reach new audiences.I'm skilled in using analytics tools to measure the effectiveness of these campaigns and make data-driven decisions to optimize them.I'm proficient in languages like Python, Java, and JavaScript and have worked on projects ranging from data analysis to full-stack web development. I enjoy using my programming skills to build tools and automations that make digital marketing campaigns more efficient and effective.
 By combining my digital marketing and developing skills, I'm able to bring a unique perspective to any project. Whether it's analyzing data to inform marketing strategy or building custom tools to streamline processes, I'm always looking for ways to use technology to drive business results.
 
